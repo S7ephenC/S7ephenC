@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S7ephenC! I'm relativly new to coding (2nd year at uni 🤐) but from what i've done so far, i'm really enjoying it.
+- 👀 I’m interested in database SQL and Java.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on honestly anything. Happy to offer my view on projects :D
+- 📫 How to reach me. Let me figure that one out
